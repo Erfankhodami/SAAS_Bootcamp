@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BootcampSolution/1.0.0": {
+        "dependencies": {
+          "BootcampClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "BootcampSolution.dll": {}
+        }
+      },
+      "BootcampClassLibrary/1.0.0": {
+        "runtime": {
+          "BootcampClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BootcampSolution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BootcampClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
