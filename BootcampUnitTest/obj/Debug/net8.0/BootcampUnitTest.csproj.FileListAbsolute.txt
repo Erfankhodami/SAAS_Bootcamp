@@ -104,3 +104,4 @@ D:\Rider\C#Projects\BootcampSolution\BootcampUnitTest\obj\Debug\net8.0\BootcampU
 D:\Rider\C#Projects\BootcampSolution\BootcampUnitTest\obj\Debug\net8.0\ref\BootcampUnitTest.dll
 D:\Rider\C#Projects\BootcampSolution\BootcampUnitTest\bin\Debug\net8.0\xunit.assert.dll
 D:\Rider\C#Projects\BootcampSolution\BootcampUnitTest\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\Rider\C#Projects\BootcampSolution\BootcampUnitTest\obj\Debug\net8.0\BootcampUnitTest.sourcelink.json

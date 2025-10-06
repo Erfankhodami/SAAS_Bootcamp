@@ -9,3 +9,4 @@ D:\Rider\C#Projects\BootcampSolution\BootcampClassLibrary\obj\Debug\net8.0\Bootc
 D:\Rider\C#Projects\BootcampSolution\BootcampClassLibrary\obj\Debug\net8.0\refint\BootcampClassLibrary.dll
 D:\Rider\C#Projects\BootcampSolution\BootcampClassLibrary\obj\Debug\net8.0\BootcampClassLibrary.pdb
 D:\Rider\C#Projects\BootcampSolution\BootcampClassLibrary\obj\Debug\net8.0\ref\BootcampClassLibrary.dll
+D:\Rider\C#Projects\BootcampSolution\BootcampClassLibrary\obj\Debug\net8.0\BootcampClassLibrary.sourcelink.json

@@ -16,3 +16,4 @@ D:\Rider\C#Projects\BootcampSolution\BootcampSolution\bin\Debug\net8.0\BootcampC
 D:\Rider\C#Projects\BootcampSolution\BootcampSolution\bin\Debug\net8.0\BootcampClassLibrary.pdb
 D:\Rider\C#Projects\BootcampSolution\BootcampSolution\obj\Debug\net8.0\BootcampSolution.csproj.AssemblyReference.cache
 D:\Rider\C#Projects\BootcampSolution\BootcampSolution\obj\Debug\net8.0\Bootcamp.C3A634CC.Up2Date
+D:\Rider\C#Projects\BootcampSolution\BootcampSolution\obj\Debug\net8.0\BootcampSolution.sourcelink.json

@@ -6,6 +6,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampClassLibrary", "Boo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampUnitTest", "BootcampUnitTest\BootcampUnitTest.csproj", "{48C052AB-E52E-4913-96FD-F1B05778E78A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Excersices", "Excersices", "{6FBD662F-488F-4C4C-A1E5-D9BE11009770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexCheckerTest", "HexCheckerTest\HexCheckerTest.csproj", "{DFCAF554-0F6C-4431-8B3D-16F58150CD93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarmUp", "WarmUp\WarmUp.csproj", "{CFDB7761-0E9B-4C36-BC16-4B1675947C0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +30,17 @@ Global
 		{48C052AB-E52E-4913-96FD-F1B05778E78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48C052AB-E52E-4913-96FD-F1B05778E78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48C052AB-E52E-4913-96FD-F1B05778E78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCAF554-0F6C-4431-8B3D-16F58150CD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCAF554-0F6C-4431-8B3D-16F58150CD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCAF554-0F6C-4431-8B3D-16F58150CD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCAF554-0F6C-4431-8B3D-16F58150CD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDB7761-0E9B-4C36-BC16-4B1675947C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDB7761-0E9B-4C36-BC16-4B1675947C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDB7761-0E9B-4C36-BC16-4B1675947C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDB7761-0E9B-4C36-BC16-4B1675947C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DFCAF554-0F6C-4431-8B3D-16F58150CD93} = {6FBD662F-488F-4C4C-A1E5-D9BE11009770}
+		{CFDB7761-0E9B-4C36-BC16-4B1675947C0B} = {6FBD662F-488F-4C4C-A1E5-D9BE11009770}
 	EndGlobalSection
 EndGlobal
